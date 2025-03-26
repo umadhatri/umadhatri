@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Uma Dhatri, a cybersecurity researcher, AI enthusiast, and CTF challenge creator. I love breaking and building things—whether it's designing AI-powered chatbots, crafting security challenges, or optimizing Proxmox VMs under extreme resource constraints.  
+I'm Uma Dhatri, front-end developer, a cybersecurity researcher, AI enthusiast, and CTF challenge creator. I love breaking and building things—whether it's designing AI-powered chatbots, crafting security challenges, or optimizing Proxmox VMs under extreme resource constraints.  
 
 ## 🚀 About Me  
 - 🔭 I’m currently working on **AI-powered RAG chatbots, cybersecurity research, and CTF challenge development at CySTAR, IIT Madras.**  
